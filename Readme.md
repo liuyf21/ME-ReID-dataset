@@ -4,10 +4,10 @@
 
 This repository provides a multi-environment person re-identification dataset, ME-ReID. ME-ReID contains complicated environments, including daytime or night, sunny or snowy, indoor or outdoor and artificial light sources. Examples are as follows.<img src="D:\学习\实验室\ME-ReID数据集\final\show.png" style="zoom:70%;" />
 
-**a:** common cases (daytime, sunny, outdoor)
-**b:** snowy, outdoor cases
-**c:** indoor cases
-**d:** night, outdoor cases
+**a:** common cases (daytime, sunny, outdoor)\\
+**b:** snowy, outdoor cases\\
+**c:** indoor cases\\
+**d:** night, outdoor cases\\
 **e:** cases with artificial light sources
 
 #### Download
